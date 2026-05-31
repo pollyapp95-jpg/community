@@ -1,3 +1,6 @@
+<img width="1290" height="1839" alt="IMG_9418" src="https://github.com/user-attachments/assets/17b46443-0044-439a-8147-ebab6a30e07a" />
+<img width="1290" height="1838" alt="IMG_9417" src="https://github.com/user-attachments/assets/cec02e8c-c686-4b8a-af15-f31dc4b6a14b" />
+<img width="1280" height="1024" alt="FullLogo (1)" src="https://github.com/user-attachments/assets/70df0c44-0d02-476c-886a-4429721f9d67" />
 # GitHub Community Discussions
 
 In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
